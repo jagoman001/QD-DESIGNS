@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qd-designs.vercel.app/sitemap.xml
